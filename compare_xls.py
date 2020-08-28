@@ -39,7 +39,7 @@ def Compare():
 				else:
 					sheet.write(rownum, column, c1)
 
-# Run the compare function
+# Run the compare
 Compare()
 
 # Save the workbook into an xls file
